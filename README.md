@@ -3,8 +3,8 @@ Small pseudo-3D side-scrolling game
 
 Controls:
 Space - Thrust up / 
-A - Thrust left / 
-D - Thrust right / 
+A - Left / 
+D - Right / 
 ESC - Exit game 
 
 Install Instructions: 
