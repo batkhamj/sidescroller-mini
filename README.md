@@ -8,7 +8,8 @@ D - Right /
 ESC - Exit game 
 
 Install Instructions: 
-1. Download Builds folder
-2. Run Sidescroller.exe
+1. Download and extract zip 
+2. Open Builds folder
+3. Run Sidescroller.exe
 
 Script files for game can be found in Scripts folder
