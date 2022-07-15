@@ -8,7 +8,7 @@ D - Right /
 ESC - Exit game 
 
 Install Instructions: 
-1. Download and extract zip 
+1. Download and extract zip by clicking green "Code" button and selecting "Downbload zip"  
 2. Open Builds folder
 3. Run Sidescroller.exe
 
